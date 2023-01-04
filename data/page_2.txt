@@ -1,0 +1,4 @@
+,Neighbourhood or locality,Living area,Living room surface,Kitchen type
+0,,280,30,Installed
+1,,260,22,
+2,,190,,
