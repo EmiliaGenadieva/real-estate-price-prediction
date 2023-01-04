@@ -1,0 +1,31 @@
+,ID,Neighbourhood or locality,Living area,Living room surface,Kitchen type
+0,10306539,Bruxelles (19 counes),110,31,Installed
+1,10303905,,250,,USA hyper equipped
+2,10206439,Bruxelles Centre,75,,Installed
+3,10096540,Bruxelles Est,112,26,Sei equipped
+4,10169001,Bruxelles Est,230,25,Sei equipped
+5,10245070,,,,
+6,10259245,Bruxelles (19 counes),171,32,Sei equipped
+7,9765508,,135,30,Installed
+8,9497970,Bruxelles (19 counes),137,18,USA hyper equipped
+9,9893520,Bruxelles,229,16,Hyper equipped
+10,9888818,Bruxelles,229,16,Hyper equipped
+11,10239120,Les Woluwes,215,34,Not installed
+12,10289295,,155,28,Hyper equipped
+13,10157376,,150,27,Not installed
+14,10124903,,145,28,Hyper equipped
+15,10100450,Nord /Ouest Bruxelles,157,12,Hyper equipped
+16,10212591,,157,22,Installed
+17,10052753,,156,17,
+18,10201255,Pagodes,120,,Installed
+19,10273766,Bruxelles Nord et Ouest,242,49,Hyper equipped
+20,10276976,Bruxelles-Ouest,162,,Hyper equipped
+21,10252335,Est de Bruxelles + VL,110,26,USA installed
+22,10037638,Bruxelles,160,25,Sei equipped
+23,10213449,,180,30,Hyper equipped
+24,10213448,,180,30,Hyper equipped
+25,10213447,,180,30,Hyper equipped
+26,9995395,Bruxelles Est,275,33,Not installed
+27,10272657,1 - Bruxelles Est,160,,Installed
+28,10216222,Nord /Ouest Bruxelles,360,15,Not installed
+29,10288679,Est de Bruxelles + VL,155,78,USA hyper equipped
