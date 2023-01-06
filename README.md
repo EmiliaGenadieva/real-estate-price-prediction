@@ -1,4 +1,4 @@
-# real-estate-price-prediction
+# real estate price prediction
 
     
     We are given a certain amount of data which we need to collect:
@@ -32,6 +32,9 @@
     
     Further enhancements: Some pages can give very soon 404 error...
     We keep each other updated if code give any kind of error. We also help each other to identify issues.
+   
+ The last day is for code completion and data gathering.
+ Issues met : there are advertisements of new sale properties which can't be filtered by search. They are quickly noticed in a file with url links and manually removed. These pages have no valuable information which we can use. We notice quickly the differences in the urls.
     
     
     
