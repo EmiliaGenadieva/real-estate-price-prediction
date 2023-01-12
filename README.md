@@ -42,7 +42,9 @@
  Issues met : there are advertisements of new sale properties which can't be filtered by search. They are quickly noticed in a file with url links and manually removed. These pages have no valuable information which we can use. We notice quickly the differences in the urls.
     
    ## Personal situation
-   Each member of the team at last expressed that he wants to further improve the code and the quality of the datafields. 
+   Each member of the team expressed that he wants to further improve the code and the quality of the datafields. 
+   ## Analysis
+   >The project continues with analysing the contents of the data. There are many different tools to visualize the different fields of the dataset. Different libraries are used to plot the number columns and summarize the values. One can select only a subset of the whole dataset.
     
     
     
