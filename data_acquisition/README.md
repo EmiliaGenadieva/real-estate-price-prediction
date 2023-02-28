@@ -1,5 +1,5 @@
 # Real Estate Price Prediction
-    > This part of the project was completed in a team.
+    This part of the project was completed in a team. This readme file is adjusted accordingly to offer code for completing the challenge of data aquisition. How to assemble the different text files and shape the data in the form we are requested.
 ## Description
     We are given the task to collect a certain amount of data from a website:
    - Locality
