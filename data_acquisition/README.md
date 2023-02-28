@@ -26,10 +26,10 @@
 >Each member contributed for writing and assembling the code. The code is tested on different OS systems(Mac, Windows, Ubuntu).
 >The technologies used are 'Beautiful Soup' and 'Selenium' server. Without these libraries installed on the computer running of this code snippets is not possible.
 ## Usage
-> The code provided can be mainly devided in 2 code divisions:
+### The code provided can be mainly devided in 2 steps:
 > The first part is collecting links for individual pages on the website.
 > In the second part we collect all the data for the data fields in our dataset. 
-
+#### These code snippets can be found: [Scraping with Selenium](https://github.com/EmiliaGenadieva/real-estate-price-prediction/blob/main/data_acquisition/scraping_selenium.ipynb)
 ## Contributors
    > Emilia, Sheetal, Zakaria, Heritie
 ## Timeline
