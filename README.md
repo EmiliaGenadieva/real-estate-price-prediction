@@ -1,51 +1,15 @@
 # Real Estate Price Prediction
     
 ## Description
-    We are given a certain amount of data which we need to collect:
-   - Locality
-   - Type of property (House/apartment)
-   - Subtype of property (Bungalow, Chalet, Mansion, ...)
-   - Price
-   - Type of sale (Exclusion of life sales) -> Venue of the sale -> Tenement building
-   - Number of rooms  -> Bedrooms
-   - Living Area	->	Living area
-   - Fully equipped kitchen (Yes/No)  -> Kitchen type
-   - Furnished (Yes/No) ->	Furnished
-   - Open fire (Yes/No)	->	How many fireplaces?
-   - Terrace (Yes/No)
-    -    If yes: Area -> Terrace surface
-   - Garden (Yes/No)
-        If yes: Area -> Garden surface
-   - Surface of the land -> Surface of the plot
-   - Surface area of the plot of land
-   - Number of facades	-> Number of frontages
-   - Swimming pool (Yes/No)	-> Swimming pool 
-   - State of the building (New, to be renovated, ...)	-> Building condition
-## Installation
->In this repo one can see the code needed to collect data from a website. Each member of the team has his own techniques to apply the written code.
-## Usage
->The code provided is devided mainly in 2 code snippets. The first part is collecting links for individual pages on the website. In the second part we collect all the data for the field we need for our dataset. 
+  ### Collect data from the internet
+ See [data_acquisition](https://github.com/EmiliaGenadieva/real-estate-price-prediction/tree/main/data_acquisition) folder for the part of this repository dedicated to the extraction of data from an internet website.
+ ### Data Analysis and EDA(Explorative Data Analysis).  
+ See [analysis](https://github.com/EmiliaGenadieva/real-estate-price-prediction/tree/main/analysis) for data analysis and visualisation of the data gathered with code in the previous step.
+ ### ML Model Creation 
+ See [ML-Model](https://github.com/EmiliaGenadieva/real-estate-price-prediction/tree/main/ML-Model) for the code used to develop ML Models which can be used to make predictions on data in the format from the previous folders.
+ ### API - Web Service deployed on the internet  
+ See [Deployment](https://github.com/EmiliaGenadieva/Deployment) for data analysis and visualisation of the data gathered with code in the previous steps.
 
-## Contributors
-   > Emilia, Sheetal, Zakaria, Heritie
-## Timeline
-  >  Some of the fields we could identify as above mentioned. The value in the right side after '-' is the criteria we see by the English translation of the website. We see bv. by 'Type of sale' that there are mainly 2 values 'Venue of the sale'	and 'Tenement building'. For now we create 2 columns in our dataset and we merge them later to create 1 single column. <br />
-  >There is currently bv. only 'Terrace' field and not yet 'Garden'. (Found just 1 'Terrace' as 'Yes' in 1 entry) Garden surface is given, so we asume that there is also a garden. We add later a column and in the row where there is the 'Garden area' given, we specify 'Garden' (Yes) or (0) by cleaning for analysis. <br />
-    
-  >Given is that 'Type/Subtype of property' will be manually added. We can append a column to the dataset after extracting a set of url links. The dataframe is read and this information can be adjusted. <br />
-   More particular steps: extract the ID and Locality from the url link of the page. Hopefully this works for all url links.
-    
-    Further enhancements: Some pages can give very soon 404 error... <br />
-    We keep each other updated if code give any kind of error. We also help each other to identify issues.
-   
- The last day is for code completion and data gathering. <br />
- Issues met : there are advertisements of new sale properties which can't be filtered by search. They are quickly noticed in a file with url links and manually removed. These pages have no valuable information which we can use. We notice quickly the differences in the urls.
-    
-   ## Personal situation
-   Each member of the team expressed that he wants to further improve the code and the quality of the datafields. 
-   ## Analysis
-   >The project continues with analysing the contents of the data. There are many different tools to visualize the different fields of the dataset. Different libraries are used to plot the number columns and summarize the values. One can select only a subset of the whole dataset.
-    
-    
+
     
     
